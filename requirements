@@ -3,6 +3,9 @@ QR code geranerator.py file
 -pip install qrcode
 -pip install image
 
-QR Code generate
+QR Code generate.py
 
 -pip install pyqrcode
+
+QRYours.py
+-pip install qrcode
